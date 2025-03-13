@@ -1,6 +1,7 @@
-public class demo{
-public static void main (string[]args)
-  {
-  system.out.println
-  }
+public class demo
+{
+   public static void main (string[]args)
+     {
+        System.out.println("hello this java program")
+      }
 }
